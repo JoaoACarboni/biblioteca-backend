@@ -1,3 +1,8 @@
+Alunos: João Antonio Carboni Gomes 
+Jedson Marengoni
+Diogo Calegari dos Reis
+Giovanni Daniotti Beker de Sousa
+
 BACK-END
 cd biblioteca-backend
 npm install
